@@ -1,1 +1,4 @@
-# C38_camera.x-project
+# C37-CAMERA.x
+Modified Trex Game to use camera.x as trex.x
+
+https://setucoder.github.io/C38-camera.x-project/
